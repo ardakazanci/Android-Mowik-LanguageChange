@@ -4,6 +4,8 @@ Miwok App
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Used in a Udacity course in the Beginning Android Nanodegree.
 
+Bu uygulama ile birlikte farklı dillerde istenen verilerin sesli olarak çevirisi sağlanmaktadır. 
+
 Pre-requisites
 --------------
 
